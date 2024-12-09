@@ -28,6 +28,38 @@ The associated ISO, EEPROM and BIOS are also omitted in this project. The requir
 /sdcard/arcade1up/bios/999a01.7e
 ```
 
+Another Way it Might Also Work is Like This (Using DDR 3rd Mix as an Example
+
+```
+/sdcard/KSYS573/DDR3MJ/887JAA02.iso
+/sdcard/KSYS573/DDR3MJ/eeprom
+/sdcard/KSYS573/DDR3MJ/flash0
+/sdcard/KSYS573/DDR3MJ/flash1
+/sdcard/KSYS573/DDRE3MJ/flash2
+/sdcard/KSYS573/DDR3MJ/flash3
+/sdcard/KSYS573/bios/999a01.7e
+/sdcard/KSYS573/bios/999a01.7e
+```
+
+Heres another Example with a Namco Game (IE Alpine Racer 2)
+
+```
+/sdcard/NAMCOS22/alpinr2b/887JAA02.iso
+/sdcard/NAMCOS22/alpinr2b/defaults
+/sdcard/NAMCOS22/alpinr2b/ars1ccr
+/sdcard/NAMCOS22/alpiner2b/ars1cg
+/sdcard/NAMCOS22/alpiner2b/ars1ptrl
+/sdcard/NAMCOS22/alpiner2b/ars1ptm
+/sdcard/NAMCOS22/alpiner2b/ars1ptru
+/sdcard/NAMCOS22/alpiner2b/ars1scg
+/sdcard/NAMCOS22/alpiner2b/ars1wavea
+/sdcard/NAMCOS22/alpiner2b/ars1data
+/sdcard/NAMCOS22/alpiner2b/ars1verb
+/sdcard/NAMCOS22/alpiner2b/ars1waveb
+/sdcard/NAMCOS22/bios/C71.bin
+```
+etc
+
 Additional code credit: Datapower Development
 
 ## Latest News
