@@ -44,7 +44,6 @@ Another Way it Might Also Work is Like This (Using DDR 3rd Mix as an Example
 Heres another Example with a Namco Game (IE Alpine Racer 2)
 
 ```
-/sdcard/NAMCOS22/alpinr2b/887JAA02.iso
 /sdcard/NAMCOS22/alpinr2b/defaults
 /sdcard/NAMCOS22/alpinr2b/ars1ccr
 /sdcard/NAMCOS22/alpiner2b/ars1cg
